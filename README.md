@@ -2,7 +2,7 @@
 
 **An AI-driven SDLC framework — designed once, then used with Claude Code to take a real product (ContractIQ) from a raw idea to a deployed, working application, stage by stage, with a working demo and no skipped steps hidden.**
 
-🔗 **Try the product this built:** _add your live Vercel URL here_ · **[Code →](https://github.com/mikinmacwan-pm/contractiq)**
+🔗 **Try the product this built:** https://contractiq-pi.vercel.app · **[Code →](https://github.com/mikinmacwan-pm/contractiq)**
 
 ---
 
